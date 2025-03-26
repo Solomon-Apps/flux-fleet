@@ -5,7 +5,7 @@ metadata:
   namespace: example-app-1
 spec:
   interval: 1m0s
-  path: "./deploy"
+  path: ./deployment
   prune: true
   sourceRef:
     kind: GitRepository
