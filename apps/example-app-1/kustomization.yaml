@@ -10,3 +10,5 @@ spec:
   sourceRef:
     kind: GitRepository
     name: example-app-1
+resources:
+  - ./namespace.yaml
