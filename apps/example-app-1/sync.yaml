@@ -17,7 +17,7 @@ metadata:
   name: example-app-1
   namespace: example-app-1
 spec:
-  interval: 5m
+  interval: 2m
   sourceRef:
     kind: GitRepository
     name: example-app-1
